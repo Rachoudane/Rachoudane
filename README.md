@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rachoudane
-- 👀 I’m interested in Indie Development
-- 🌱 I’m currently learning Indie Development
-- 💞️ I’m looking to collaborate on Indie Mobile Development
+- 👀 I’m interested in Indie Mobile Development
+- 🌱 I’m currently learning Xamarin Development
 - 📫 How to reach me : Rachou#6364
 
 <!---
