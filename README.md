@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rachoudane
 - 👀 I’m interested in Indie Mobile Development
-- 🌱 I’m currently learning Xamarin Development
+- 🌱 I’m currently learning .NET Maui Development
 - 📫 How to reach me : Rachou#6364
 
 <!---
