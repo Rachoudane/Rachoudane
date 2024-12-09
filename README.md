@@ -25,7 +25,7 @@ Feel free to explore my repositories to see what I'm working on!
 
 ## 📫 How to Reach Me
 - **Email**: [marouanebelkhdir@hotmail.fr](mailto:marouanebelkhdir@hotmail.fr)
-- **GitHub**: [github.com/YourUsername](https://github.com/Rachoudane)
+- **GitHub**: [github.com/Rachoudane](https://github.com/Rachoudane)
 
 ---
 
