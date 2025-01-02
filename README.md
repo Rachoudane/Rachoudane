@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a passionate developer specializing in **game developm
 ## 📂 Projects
 Here are some of my recent works:
 - **[Pearl et Pluthon](https://github.com/Rachoudane/Pearl-et-Pluthon)**: A delightful 2D game where you guide **Pearl** and **Pluthon**, two adventurous young cats, on a quest to retrieve their favorite toy—a red ball. The ball has been taken by **Rufus**, the residence's guard dog. Explore diverse locations, overcome obstacles, and outsmart Rufus to reunite the cats with their cherished toy. *(Unity | C#)*
-- **[Project Name 2](#)**: A brief description of the project. *(Unity | C#)*
+- **[2D-Chess-Game](https://github.com/Rachoudane/2D-Chess-Game)**: A classic 2D chess video game built with Unity, designed to showcase polished gameplay mechanics, intuitive controls, and a clean, modern UI. *(Unity | C#)*
 - **[Project Name 3](#)**: A brief description of the project. *(Unity | C#)*
 
 Feel free to explore my repositories to see what I'm working on!
