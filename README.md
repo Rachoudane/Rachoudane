@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a passionate developer specializing in **game developm
 ## 🔧 Technologies & Tools
 - **Programming Languages**: C#, Java, JavaScript
 - **Game Engines**: Unity
-- **Other Tools**: Visual Studio, Git, Blender (basic), React
+- **Other Tools**: Visual Studio, Visual Studio Code, Git, Blender (basic), React
 
 ---
 
