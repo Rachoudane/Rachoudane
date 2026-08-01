@@ -1,31 +1,30 @@
-# 👋 Hi, I'm Marouane!
+# Marouane Belkhdir — Rachou Corp
 
-📱 **Mobile App Developer | Flutter Enthusiast**
+Independent Flutter developer. I design, build, and ship mobile apps end to end — architecture, backend, monetization, App Store / Play Store deployment. Based in France.
 
-Welcome to my GitHub! I’m a developer with a strong interest in **mobile application development**, specializing in building cross-platform apps with **Flutter** and **Dart**. I enjoy crafting clean interfaces, scalable architectures, and smooth user experiences across both Android and iOS.
-
----
-
-## 🔧 Technologies & Tools
-- **Languages**: Dart, C#, Java, JavaScript  
-- **Frameworks**: Flutter, .NET  
-- **Tools & Platforms**: Android Studio, Visual Studio Code, Git & GitHub, Firebase, REST APIs
+Currently looking for a mobile developer role or freelance missions.
 
 ---
 
-## 🌱 What I’m Focused On
-- Developing performant and responsive mobile apps using Flutter  
-- Improving app architecture (Clean Architecture, MVVM, state management)  
-- Exploring UI/UX best practices for intuitive mobile experiences  
-- Continuously learning new tools, packages, and development workflows  
+## Apps
+
+**[Wingman](https://github.com/Rachoudane/Wingman)** — Valorant lineup companion. 750+ step-by-step lineups across 29 agents and 13 maps, Firebase Firestore backend, Cloudflare R2 for image delivery.
+[Get it on Google Play](https://play.google.com/store/apps/details?id=com.rachoucorp.wingman)
+
+**[Moto](https://github.com/Rachoudane/moto) 基** — Habit tracker built around a square-by-square progression system (1×1 → 2×2 → 3×3 → ...). Fully offline, trilingual (FR/EN/JA).
+[Get it on Google Play](https://play.google.com/store/apps/details?id=com.rachoucorp.moto)
 
 ---
 
-## 📫 How to Reach Me
-- **Email**: [rachoucorp@gmail.com](mailto:rachoucorp@gmail.com)  
-- **GitHub**: [github.com/Rachoudane](https://github.com/Rachoudane)  
-- **Website**: [www.marouanedev.com](https://www.marouanedev.com)
+## Stack
+
+Flutter / Dart · Firebase (Firestore) · Provider — Bloc · Cloudflare R2 · AdMob & In-App Purchase
 
 ---
 
-🚀 Always open to collaboration, discussions, or anything related to mobile development. Let’s build something great!
+## Elsewhere
+
+- [rachoucorp.app](https://rachoucorp.app) — studio site, both apps, contact
+- [LinkedIn](https://www.linkedin.com/in/marouane-belkhdir/)
+- [Malt](https://www.malt.fr/profile/marouanebelkhdir) — freelance profile
+- rachoucorp@gmail.com
