@@ -2,19 +2,19 @@
 
 # MAROUANE　BELKHDIR
 
-**独立モバイル開発者**
-Independent Mobile Developer
+### 独立モバイル開発者
 
-`Flutter`　·　`Rachou Corp`　·　France
-
-<br>
-
-I design, build and ship mobile apps end to end —
-from architecture and backend to monetization and store release.
+**Independent Mobile Developer · Rachou Corp · France**
 
 <br>
 
-**Open to mobile developer roles & freelance missions.**
+I design, build and ship mobile products from idea to store.
+
+**Product · Design · Flutter · Backend · Monetization**
+
+<br><br>
+
+`OPEN TO WORK`　`FREELANCE`
 
 </div>
 
@@ -22,90 +22,164 @@ from architecture and backend to monetization and store release.
 
 ---
 
-## 作品　Works
+<br>
 
-### Hoopmap　·　ホープマップ
+## 作品　/　SELECTED WORK
 
-**Basketball courts, wherever you are.**
+<br>
 
-A mobile app for discovering basketball courts around the world.
-Combines OpenStreetMap data through Overpass with community-contributed courts stored in Firestore, with moderation and offline-tolerant behavior.
+### 01　HOOPMAP
 
-`Flutter`　`Riverpod`　`Firestore`　`flutter_map`　`Geolocation`　`OpenStreetMap`
+**世界中のバスケットコートを探す。**
+
+> Find basketball courts anywhere in the world.
+
+Hoopmap is a mobile app for discovering basketball courts around the world.
+
+It combines **OpenStreetMap** data through the Overpass API with community-contributed courts in Firestore, with moderation, geolocation and offline-tolerant behavior.
+
+<br>
+
+**Built with**
+
+`Flutter` `Riverpod` `Firestore` `flutter_map` `OpenStreetMap`
+
+**Available on**
 
 [Google Play](https://play.google.com/store/apps/details?id=com.rachoucorp.hoopmap)　·　[Source](https://github.com/Rachoudane/hoopmap)
 
 <br>
 
-### Wingman　·　相棒
+---
 
-**Valorant lineups, made practical.**
+<br>
 
-A lineup companion covering **750+ lineups**, **29 agents** and **13 maps**, backed by Firestore and Cloudflare R2.
+### 02　WINGMAN
 
-Built end to end: mobile app, backend, image delivery, monetization, contribution flow and moderation tooling.
+**勝つためのラインナップ。**
 
-`Flutter`　`Firestore`　`Cloudflare R2`　`AdMob`　`In-App Purchase`
+> Lineups, without the friction.
+
+A Valorant lineup companion built around **750+ lineups**, **29 agents** and **13 maps**.
+
+Built end to end with a Firestore backend, Cloudflare R2 image delivery, contribution workflows, moderation tooling and in-app monetization.
+
+<br>
+
+**Built with**
+
+`Flutter` `Firestore` `Cloudflare R2` `AdMob` `In-App Purchase`
+
+**Product**
 
 [Google Play](https://play.google.com/store/apps/details?id=com.rachoucorp.wingman)
 
+<sub>Source code is private.</sub>
+
 <br>
 
-### Moto　·　基
+---
 
-**Build your base, day after day.**
+<br>
 
-A habit tracker built around a simple visual progression system:
+### 03　MOTO
+
+**習慣を、一マスずつ育てる。**
+
+> Grow habits, square by square.
+
+Moto turns daily habits into something you can actually see grow.
+
+Every completed day fills a cell.
 **1×1 → 2×2 → 3×3 → …**
 
-Fully offline and available in French, English and Japanese.
+No streak anxiety. No erased progress.
+Just a visual record of the days you showed up.
 
-`Flutter`　`Offline-first`　`i18n`
+Now available on **iOS and Android**.
 
-[Google Play](https://play.google.com/store/apps/details?id=com.rachoucorp.moto)　·　[Source](https://github.com/Rachoudane/moto)
+<br>
+
+**Built with**
+
+`Flutter` `Offline-first` `i18n` `In-App Purchase`
+
+**Available on**
+
+[App Store](https://apps.apple.com/fr/app/moto-suivi-dhabitudes/id6797039104)　·　[Google Play](https://play.google.com/store/apps/details?id=com.rachoucorp.moto)　·　[Source](https://github.com/Rachoudane/moto)
 
 <br>
 
 ---
 
-## 技術　Stack
+<br>
 
-**Mobile**
-Flutter　·　Dart　·　Riverpod　·　Bloc　·　go_router
+## 技術　/　STACK
 
-**Backend & Infrastructure**
-Firebase Firestore　·　Firebase Auth　·　Cloudflare R2
+<br>
 
-**Ship & Monetization**
-Play Console　·　App Store Connect　·　AdMob　·　In-App Purchase　·　GitHub Actions
+**01 — MOBILE**
+
+Flutter · Dart · Riverpod · Bloc · go_router
+
+**02 — BACKEND**
+
+Firebase · Firestore · Firebase Auth · Cloudflare R2
+
+**03 — SHIP**
+
+Play Console · App Store Connect · GitHub Actions
+
+**04 — BUSINESS**
+
+AdMob · In-App Purchase · App Store Optimization · Product Design
 
 <br>
 
 ---
 
-## その他　Other Work
+<br>
 
-A few other public projects and experiments:
+## その他　/　EXPERIMENTS
 
-* [flutter-mastery](https://github.com/Rachoudane/flutter-mastery) — Flutter learning & experimentation
-* [react-portfolio](https://github.com/Rachoudane/react-portfolio) — personal portfolio
-* [FlyingSquidgame](https://github.com/Rachoudane/FlyingSquidgame) — Java game project
-* [projet-Machina](https://github.com/Rachoudane/projet-Machina) — computer vision experiment
+Small projects, prototypes and experiments.
+
+`flutter-mastery`　[Flutter experiments](https://github.com/Rachoudane/flutter-mastery)
+
+`react-portfolio`　[React portfolio](https://github.com/Rachoudane/react-portfolio)
+
+`FlyingSquidgame`　[Java game](https://github.com/Rachoudane/FlyingSquidgame)
+
+`projet-Machina`　[Computer vision experiment](https://github.com/Rachoudane/projet-Machina)
 
 <br>
 
 ---
-
-## 連絡　Contact
-
-[rachoucorp.app](https://rachoucorp.app)　·　[LinkedIn](https://www.linkedin.com/in/marouane-belkhdir/)　·　[Malt](https://www.malt.fr/profile/marouanebelkhdir/)　·　[rachoucorp@gmail.com](mailto:rachoucorp@gmail.com)
 
 <br>
 
 <div align="center">
 
-**一歩ずつ**
+## 連絡　/　CONTACT
 
-<sub>one step at a time</sub>
+<br>
+
+[rachoucorp.app](https://rachoucorp.app)
+
+[LinkedIn](https://www.linkedin.com/in/marouane-belkhdir/)　·　[Malt](https://www.malt.fr/profile/marouanebelkhdir/)
+
+<br>
+
+[rachoucorp@gmail.com](mailto:rachoucorp@gmail.com)
+
+<br><br>
+
+---
+
+<br>
+
+**一歩ずつ。**
+
+<sub>Build quietly. Ship consistently.</sub>
 
 </div>
