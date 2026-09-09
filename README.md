@@ -1,14 +1,12 @@
 # Marouane Belkhdir
 
-Flutter developer in France, currently open to work.
+Flutter developer in France. I build mobile apps on my own, from the first architecture decision through to the store listing. Three are out so far.
 
-I build mobile apps on my own, from the first architecture decision through to the store listing. Three are out so far.
-
-**[Moto 元](https://apps.apple.com/app/moto-habit-tracker/id6797039104)** · iOS and Android · [source](https://github.com/Rachoudane/moto)
+**[Moto 元](https://apps.apple.com/app/moto-habit-tracker/id6797039104)** · iOS and Android
 
 A habit tracker built on a grid that grows the longer you keep going. A finished grid stays yours even if you drop the habit later, which is the opposite of how streak trackers usually work.
 
-**[Hoopmap](https://play.google.com/store/apps/details?id=com.rachoucorp.hoopmap)** · Android · [source](https://github.com/Rachoudane/hoopmap)
+**[Hoopmap](https://play.google.com/store/apps/details?id=com.rachoucorp.hoopmap)** · Android
 
 Finds basketball courts anywhere in the world. It runs on live Overpass queries rather than a fixed list of cities, which means respecting a free community API's usage policy and degrading gracefully when it's rate-limited instead of dropping the user on an empty screen. I started playing in high school after watching Kuroko no Basket and never stopped, almost always outdoors.
 
