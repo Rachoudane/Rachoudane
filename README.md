@@ -12,7 +12,7 @@ Finds basketball courts anywhere in the world. It runs on live Overpass queries 
 
 **[Wingman](https://rachoucorp.app/wingman)**
 
-750+ Valorant lineups across 29 agents and 13 maps, with a Firestore backend and image delivery through Cloudflare R2. I've played since the beta and built the reference I wanted to have myself.
+800+ Valorant lineups across 29 agents and 13 maps, with a Firestore backend and image delivery through Cloudflare R2. I've played since the beta and built the reference I wanted to have myself.
 
 ---
 
